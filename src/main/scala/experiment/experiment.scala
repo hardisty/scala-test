@@ -1,3 +1,5 @@
 object Experiment {
-  def main(args: Array[String]) = println("Hello world from Scala!")
+  def main(args: Array[String]): Unit = {
+    println("Hello world from Scala!")
+  }
 }
