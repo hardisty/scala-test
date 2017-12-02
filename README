@@ -1,1 +1,3 @@
 Playing around with Scala as a self-teaching exercise.
+
+To run, start sbt, then sbt> run. 
